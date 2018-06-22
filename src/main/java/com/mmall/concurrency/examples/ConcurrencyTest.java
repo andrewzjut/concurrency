@@ -1,4 +1,4 @@
-package com.mmall.concurrency.test;
+package com.mmall.concurrency.examples;
 
 import com.mmall.concurrency.annotations.NotThreadSafe;
 import org.slf4j.Logger;
